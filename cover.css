@@ -116,3 +116,17 @@ h4,
 .dcc-icon-github:hover {
   color: #171515;
 }
+
+.dcc-img:hover {
+  size: 110%;
+}
+
+.dcc-img {
+  opacity: 1;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.dcc-img:hover {
+  opacity: .5;
+}
