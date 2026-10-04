@@ -68,7 +68,7 @@ title: 語言是人類絕無僅有的能力！嗎？
 
 作者也做了很多的實驗，證實了白頰山雀 「jia~jia~」 真的就是指「蛇」的意思，是個名詞，也會讓白頰山雀認知到有蛇。
 
-白頰山雀的 **jia~jia~**：
+白頰山雀的 **jia jia**：
 
 <audio controls src="https://weekly-post-contents.net/bokutori04/01.wav"></audio>
 
