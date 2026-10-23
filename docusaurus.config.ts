@@ -72,6 +72,9 @@ const config: Config = {
       disableSwitch: false,
       respectPrefersColorScheme: false,
     },
+    mermaid: {
+      theme: {light: 'neutral', dark: 'forest'},
+    },
     navbar: {
       title: 'Tomo Blog',
       logo: {
@@ -116,6 +119,10 @@ const config: Config = {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',
             },
+            {
+              label: 'RSS',
+              href: 'https://blog.tatsutomo.site/blog/rss.xml',
+            },
           ],
         },
       ],
@@ -126,6 +133,10 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
 };
 
 export default config;
