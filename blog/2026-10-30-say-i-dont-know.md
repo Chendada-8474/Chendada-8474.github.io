@@ -4,6 +4,8 @@ title: 良好團隊中的核心關鍵
 
 > 這是我在「[BlogBlog 同樂會 - 2026 年 12 月](https://blogblog.club/party/)」的投稿文章。本月主題是「[人際關係與頻率](https://blog.nudoragon.com/post/blogblog-party-relationship)」，由 [龍女](https://blog.nudoragon.com/) 主持。如果你有自己的部落格，歡迎一起來參加！
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LhoLuui9gX8?si=wwRQ-UgoRPWSN0Dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Google's Project Aristotle
 
